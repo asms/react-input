@@ -11,6 +11,7 @@ class Input extends React.Component {
     super(props);
     this.params = this.props.params;
   }
+
   render() {
     // required fields
     let id;
